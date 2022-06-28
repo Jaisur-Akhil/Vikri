@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Vikri/static/css/main.458dbb8b.chunk.css",
-    "main.js": "/Vikri/static/js/main.74db2c03.chunk.js",
-    "main.js.map": "/Vikri/static/js/main.74db2c03.chunk.js.map",
+    "main.js": "/Vikri/static/js/main.aec539ef.chunk.js",
+    "main.js.map": "/Vikri/static/js/main.aec539ef.chunk.js.map",
     "runtime-main.js": "/Vikri/static/js/runtime-main.82125c12.js",
     "runtime-main.js.map": "/Vikri/static/js/runtime-main.82125c12.js.map",
     "static/js/2.bebdf6f2.chunk.js": "/Vikri/static/js/2.bebdf6f2.chunk.js",
     "static/js/2.bebdf6f2.chunk.js.map": "/Vikri/static/js/2.bebdf6f2.chunk.js.map",
     "index.html": "/Vikri/index.html",
-    "precache-manifest.6894fe29588711518ed3409b02fd0fcc.js": "/Vikri/precache-manifest.6894fe29588711518ed3409b02fd0fcc.js",
+    "precache-manifest.6b5e987c19fc969eeea93fc510d0a06b.js": "/Vikri/precache-manifest.6b5e987c19fc969eeea93fc510d0a06b.js",
     "service-worker.js": "/Vikri/service-worker.js",
     "static/css/main.458dbb8b.chunk.css.map": "/Vikri/static/css/main.458dbb8b.chunk.css.map",
     "static/js/2.bebdf6f2.chunk.js.LICENSE.txt": "/Vikri/static/js/2.bebdf6f2.chunk.js.LICENSE.txt",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.82125c12.js",
     "static/js/2.bebdf6f2.chunk.js",
     "static/css/main.458dbb8b.chunk.css",
-    "static/js/main.74db2c03.chunk.js"
+    "static/js/main.aec539ef.chunk.js"
   ]
 }
