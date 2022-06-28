@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a7a14895ce6e696de32fe4e105fce05",
+    "revision": "908168ccc2b0abbee726f6bde88b1295",
     "url": "/Vikri/index.html"
   },
   {
-    "revision": "4630a83cd94f2585b82c",
+    "revision": "4e77408592a3fa262111",
     "url": "/Vikri/static/css/main.458dbb8b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Vikri/static/js/2.bebdf6f2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4630a83cd94f2585b82c",
-    "url": "/Vikri/static/js/main.928f6bdb.chunk.js"
+    "revision": "4e77408592a3fa262111",
+    "url": "/Vikri/static/js/main.74db2c03.chunk.js"
   },
   {
     "revision": "2312506fe4c2be631499",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Vikri/static/media/illustration-section-02.63d0555d.svg"
   },
   {
-    "revision": "fa69d04faff02de408e124584e746662",
-    "url": "/Vikri/static/media/logo.fa69d04f.svg"
+    "revision": "65270ae9913dc96d5567e9d52253a3b7",
+    "url": "/Vikri/static/media/logo.65270ae9.png"
   },
   {
     "revision": "643e84308e6caa79ca242592f6df9198",
